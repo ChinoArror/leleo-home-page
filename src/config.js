@@ -28,7 +28,7 @@ const config = {
       "datainfo":{
         "title":"海洋女孩", 
         "preview":"/img/wallpaper/static/海洋女孩/image-pre.webp",
-        "url":"/img/wallpaper/static/海洋女孩/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+        "url":"anime.pi.yukies.top",     //当然，也可填写网络地址或壁纸api，/img/wallpaper/static/海洋女孩/image.png
       },
     },
     "mobile":{   //移动端
